@@ -1,11 +1,11 @@
 package bouazza.jenkins.junit.test;
 
 public class MaClass {
-	public int maMethode(int x, int y) {
+	public int maMethode(int z, int y) {
 		// juste un exemple
-		if (x > 999) {
-			throw new IllegalArgumentException("X doit etre inferieur à 1000");
+		if (z > 999) {
+			throw new IllegalArgumentException("Z doit etre inferieur ï¿½ 1000");
 		}
-		return x * y;
+		return z * y;
 	}
 }
