@@ -4,7 +4,7 @@
   <artifactId>com.jenkins.test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <reporting>
+  <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -12,5 +12,5 @@
         <version>2.9.1</version>
       </plugin>
     </plugins>
-  </reporting>
+  </build>
 </project>
