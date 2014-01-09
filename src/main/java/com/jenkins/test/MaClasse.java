@@ -6,6 +6,6 @@ public class MaClasse {
     if (x > 999) {
       throw new IllegalArgumentException("X doit etre inferieur a 1000");
     }
-    return x / y;
+    return x * y;
   }
 }
