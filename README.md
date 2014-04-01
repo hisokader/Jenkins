@@ -1,5 +1,3 @@
-isoGPF
-======
+The OpenShift `jbossas` cartridge documentation can be found at:
 
-stage 2013 isotopia
-f
+https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-jbossas/README.md
